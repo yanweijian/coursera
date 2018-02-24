@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anton/coursera/chapter4/complex/operator_reload.cpp
+iostream
+-
+cstring
+-
+cstdlib
+-
+opt_reloadConfig.h
+/home/anton/coursera/chapter4/complex/opt_reloadConfig.h
+
+opt_reloadConfig.h
+

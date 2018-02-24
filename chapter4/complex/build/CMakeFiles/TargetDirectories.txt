@@ -1,0 +1,3 @@
+/home/anton/coursera/chapter4/complex/build/CMakeFiles/edit_cache.dir
+/home/anton/coursera/chapter4/complex/build/CMakeFiles/rebuild_cache.dir
+/home/anton/coursera/chapter4/complex/build/CMakeFiles/opt_reload.dir
