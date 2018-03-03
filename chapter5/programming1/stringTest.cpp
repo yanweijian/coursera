@@ -1,8 +1,8 @@
 /*************************************************************************
-    > File Name: MyString.cpp
+    > File Name: stringTest.cpp
     > Author: ma6174
     > Mail: ma6174@163.com 
-    > Created Time: Fri 16 Feb 2018 08:07:48 PM DST
+    > Created Time: 2018年02月17日 星期六 04时55分25秒
  ************************************************************************/
 
 #include<iostream>
@@ -11,4 +11,4 @@
 
 using namespace std;
 
-int CompareString
+int CommpareString(const void *e1,)
