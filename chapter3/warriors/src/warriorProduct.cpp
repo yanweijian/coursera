@@ -28,6 +28,7 @@ class RedWarrior{
 */
 		int productWarriors(){
 			if(rtotalEnergy>=rdragonEnergy){
+	
 				rtotalEnergy-=rdragonEnergy;
 				rdragonNum++;
 				cout<<"red dragon "<<rdragonNum<<" born with strength "<<rdragonEnergy<<endl;
